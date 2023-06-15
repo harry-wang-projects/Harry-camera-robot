@@ -1,0 +1,4 @@
+0 Metal
+1 Paper
+2 Plastic
+3 Trash
